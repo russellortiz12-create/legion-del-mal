@@ -6,7 +6,7 @@
 ![Release](https://img.shields.io/github/v/release/russellortiz12-create/legion-del-mal)
 ![Issues](https://img.shields.io/github/issues/russellortiz12-create/legion-del-mal)
 ![Último commit](https://img.shields.io/github/last-commit/russellortiz12-create/legion-del-mal)
-![Licencia](https://img.shields.io/github/license/russellortiz12-create/legion-del-mal)
+![Licencia](https://img.shields.io/github/license/russellortiz12-create/legion-del-mal?&cacheSeconds=60)
 
 # 🦹‍♂️ La Legión del Mal
 
